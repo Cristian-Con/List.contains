@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="_9_143_LoopingWithIterators" />
+        <module name="9_146_List.contains()&amp;Object.equals()_" />
+        <module name="_8_115_SetupForMoreAdvancedOOPTopics" />
+        <module name="_8_129_LambdasVersusAnonymousClasses" />
+        <module name="_8_116_EmployeeSalariesContinued" />
+        <module name="_8_122_CompletingTheEmployeeClassHierarchy" />
+        <module name="_9_142_LinkedList" />
+        <module name="_8_131_DefaultMethods" />
+        <module name="_8_118_IntroducingAProgrammerClass" />
+        <module name="_9_144_LooseEndsOfLists" />
+        <module name="_8_120_IntroducingInterfaces" />
+        <module name="_8_123_DealingWithTheNullCase" />
+        <module name="_8_125_FactoryMethods" />
+        <module name="_8_132_ComparingClassesWithInstanceOf" />
+        <module name="_8_117_CompletingOtherEmployeeCases" />
+        <module name="_8_124_IntroducingAbstractClasses" />
+        <module name="_8_119_ImplementingTheOtherEmploeeClasses" />
+        <module name="_8_121_RevisitingTheClassHierarchies" />
+        <module name="_9_145_AdditionalListMethod" />
+        <module name="_9_141_ListBasics" />
+        <module name="_8_126_NestedClasses" />
+        <module name="_8_128_Records" />
+        <module name="_8_130_CompositionVersusInheritance" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
